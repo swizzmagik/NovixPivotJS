@@ -3,7 +3,7 @@
   "description": "Javascript plugin for PivotTable with handsontable and highcharts renderers",
   "version": "0.1",
   "main": [
-    "hightchart_renderers.js",
+    "highcharts_renderers.js",
     "novix.pivot.renderer.js"
   ],
   "license": "MIT",
